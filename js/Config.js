@@ -2,8 +2,8 @@
 // js/config.js — Supabase credentials & app-wide constants
 // ============================================================
 
-export const SUPABASE_URL  = 'https://egdseuuzjpqwpeclpujj.supabase.co';
-export const SUPABASE_ANON = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVnZHNldXV6anBxd3BlY2xwdWpqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUzODQxNDUsImV4cCI6MjA5MDk2MDE0NX0.n1oZDVPtN68ExgrWMi8bzgleXlz4aIXsqPPQG6BGeDE';
+export const SUPABASE_URL  = 'https://pnitdwaphsmuxftzypxc.supabase.co';
+export const SUPABASE_ANON = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBuaXRkd2FwaHNtdXhmdHp5cHhjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYyMzI3ODAsImV4cCI6MjA5MTgwODc4MH0.ygbkUl3e8pwXlZ3H_xQgxngGB1JcBESp9foT-rK5rEk';
 
 export const DISTRICTS = ['Kochi', 'Trivandrum'];
 
